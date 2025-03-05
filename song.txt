@@ -6,3 +6,4 @@ siedzimy i i działamy.
 nowy branch tutaj jest już 'feature'
 
 
+tutaj coś tutaj coś w main branch
