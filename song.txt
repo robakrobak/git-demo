@@ -4,5 +4,5 @@ robimy
 siedzimy i i działamy.
 
 nowy branch tutaj jest już 'feature'
-i dodajemy gówienka tu
-Fun fun fun fun fun fun
+
+
