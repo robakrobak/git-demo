@@ -5,4 +5,5 @@ siedzimy i i działamy.
 
 nowy branch tutaj jest już 'feature'
 
+tutaj dodaje zmiany w feature branch
 
