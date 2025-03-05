@@ -1,9 +1,13 @@
+
+
+nowy branch tutaj jest już 'feature'
+
+zmieniam tekst
+
+tutaj tez
+
+
 zmiana pliku do pracy na revert
 Śpiewamy,
 robimy
 siedzimy i i działamy.
-
-nowy branch tutaj jest już 'feature'
-
-tutaj dodaje zmiany w feature branch
-
