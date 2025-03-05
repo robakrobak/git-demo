@@ -15,3 +15,5 @@ zmiana pliku do pracy na revert
 robimy
 siedzimy i i działamy.
 
+
+for tag only
